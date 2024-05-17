@@ -324,3 +324,4 @@ Nilai learning rate berpengaruh pada perhitungan bobot baru, umumnya penggunaan 
 
 - Visualisasi: [ANN](https://playground.tensorflow.org/)
 - Visualisasi: [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- Code : [Multi-Class Classification Lukinsa](https://colab.research.google.com/drive/1Z6VNZmp3VNaXKN6b9lQL0t2XJ4euV5nY?usp=sharing)
